@@ -27,6 +27,6 @@
       var hide = document.getElementById("fakesite");
       hide.style.display = "none";
 	  show.style.display = "block";
-      document.getElementById("message").innerHTML = "<h1><strong><em>ERRORE 404</em></strong></h1>"
+      document.getElementById("message").innerHTML = "<h1><strong><em>Welcome</em></strong></h1>"
    };
    
